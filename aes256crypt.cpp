@@ -2,8 +2,6 @@
  * @file	aes256crypt.cpp
  * @brief	à√çÜâª
  *
- * Copyright (C) 2011 DDS, Inc.
- *
  */
 
 #include "stdafx.h"
